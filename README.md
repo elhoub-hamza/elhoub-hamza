@@ -1,4 +1,4 @@
-# Hi there, I'm Hamza 💞️
+# Hi there, I'm Hamza ELHOUB 💞️
 
 - 👋, I’m @elhoub-hamza and I'm a student IT methods applied to business management engineer. I'm from Morocco  living in Casablanca. You can find me on Twitter, or on LinkedIn.
 

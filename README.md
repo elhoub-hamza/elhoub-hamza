@@ -5,7 +5,7 @@
 
 # Technologies & Tools 🔧
 
-- 🌱 I’m currently learning Blockchain Development.
+- 🌱 I’m currently learning.
 - 💬 Ask me about anything in tech I bet I will answer.
 
 # Contact with me on 📫

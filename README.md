@@ -1,18 +1,12 @@
-# Hi there, I'm Hamza ELHOUB 💞️
+Welcome to my profile!
 
-- 👋, I’m @elhoub-hamza and I'm a student IT methods applied to business management engineer. I'm from Morocco  living in Casablanca. You can find me on Twitter, or on LinkedIn.
+I'm a dedicated IT enthusiast with a passion for problem-solving. With a beginner's mindset and a strong commitment to learning.
 
+Skills:
+~ Problem Identification and Analysis
+~ Troubleshooting and Issue Resolution
+~ IT Fundamentals and Technical Knowledge
+~ Research and Continuous Learning
+~ Effective Collaboration
 
-# Technologies & Tools 🔧
-
-- 🌱 I’m currently learning.
-- 💬 Ask me about anything in tech I bet I will answer.
-
-# Contact with me on 📫
-
-- 👀 personal email : hamza.elhoub@gmail.com
-
-<!---
-elhoub-hamza/elhoub-hamza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let's connect and embark on an exciting journey of IT problem-solving.
